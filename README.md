@@ -7,4 +7,4 @@ Simply, choose a loan amount, specify the intrest rate and choose how many years
 1. JavaScript
 2. Bootstrap
 
-[Check it out!](https://nahrinoda.github.io/Number-Guesser/index.html)
+[Check it out!](https://nahrinoda.github.io/loan-calculator/index.html)
